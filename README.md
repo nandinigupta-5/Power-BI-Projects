@@ -4,7 +4,12 @@ This repository contains a comprehensive Formula One (F1) Analysis Project built
 
 
   <img width="599" alt="image" src="https://github.com/user-attachments/assets/d94066d0-6c69-440f-bde7-19d3d1666684" />
+  
+  <img width="593" alt="image" src="https://github.com/user-attachments/assets/e86a0f67-d570-4802-938c-3976042f1236" />
 
+  <img width="592" alt="image" src="https://github.com/user-attachments/assets/b6b9954d-e6e6-49e1-ae32-68712cddfd51" />
+
+  <img width="592" alt="image" src="https://github.com/user-attachments/assets/fc5abf90-76dc-4619-ac30-eaf6e70c9ba2" />
 
 
 ## Key Features:
